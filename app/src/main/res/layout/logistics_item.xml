@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.example.hepan.logistics.LogisticsLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/root"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    tools:left_margin="50dp">
+
+    <TextView
+        android:id="@+id/tvTime"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="50dp"
+        android:text="时间" />
+
+    <TextView
+        android:id="@+id/tvDesc"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tvTime"
+        android:layout_marginBottom="20dp"
+        android:layout_marginLeft="50dp"
+        android:autoLink="phone"
+        android:text="描述" />
+</com.example.hepan.logistics.LogisticsLayout>
