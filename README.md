@@ -6,4 +6,4 @@
 
 ![效果图](https://github.com/HeCaser/LogisticsLayout/blob/master/wuliu.png)
 
-[csdn博客](https://mp.csdn.net/mdeditor/80695461)
+[csdn博客](https://blog.csdn.net/hepann44/article/details/80695461)
